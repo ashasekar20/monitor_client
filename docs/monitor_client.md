@@ -3,7 +3,7 @@
 Following Steps are pre-requisites:
 
 - Load the config/credentials with the required data
-  api_key: <API Key of the Uptime robot account>
+- api_key: \<API Key of the Uptime robot account>
 
  Following are the ways to run monitor_client to perform various actions
 
